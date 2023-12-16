@@ -6,3 +6,6 @@ This is a group video calling website built using JavaScript, CSS, and Socket.io
 ->Audio Support: Users can enable or disable audio during video calls.
 ->Chat: Users can also communicate via a text chat while in a video call.
 ->Responsive Design: The website is responsive and works well on both desktop and mobile devices.
+# To run this on your system: 
+-npm i
+-npm start
