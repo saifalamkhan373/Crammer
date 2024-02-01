@@ -1,5 +1,5 @@
 # Crammer
-This is a group video calling website built using JavaScript, CSS, and Socket.io. It allows users to participate in video calls with multiple participants in real-time.
+This is a group video calling web app built using JavaScript, CSS3, and Socket.io. It allows users to participate in video calls with multiple participants in real-time.
 
 **Features**
 ->Real-time Video Calls: Users can join and participate in video calls with multiple participants.
